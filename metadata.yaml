@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2659
 description: This story takes in high school athletics in their most approved and
   up-to-date fashion. Full of fun and excitement.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34749#The-Girls-of-Central-High-on-Track-and-Field--13-The-Champions-of-the-School-League
 gutenberg_issued: '2010-12-24'
 gutenberg_type: Text
 identifiers:
