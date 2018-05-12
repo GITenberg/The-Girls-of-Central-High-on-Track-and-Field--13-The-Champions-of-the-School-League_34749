@@ -1,0 +1,31 @@
+_repo: The-Girls-of-Central-High-on-Track-and-Field--13-The-Champions-of-the-School-League_34749
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34749-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morrison, Gertrude W.
+    gutenberg_agent_id: '2659'
+    url: http://www.gutenberg.org/2009/agents/2659
+description: This story takes in high school athletics in their most approved and
+  up-to-date fashion. Full of fun and excitement.
+gutenberg_issued: '2010-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Track and field for women -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Competition -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: "The Girls of Central High on Track and Field\r\nOr, The Champions of the School\
+  \ League"
+url: http://www.gutenberg.org/ebooks/34749
